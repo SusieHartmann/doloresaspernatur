@@ -1,0 +1,25 @@
+{
+  "name": "doloresaspernatur",
+  "version": "1.8.3",
+  "description": "Module designed to get local eths on IPv4 networks",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SusieHartmann/doloresaspernatur.git"
+  },
+  "keywords": [
+    "eth",
+    "ratione",
+    "illum",
+    "ipv4"
+  ],
+  "author": "AlanBogisich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SusieHartmann/doloresaspernatur.git/issues"
+  },
+  "homepage": "https://github.com/SusieHartmann/doloresaspernatur.git",
+  "dependencies": {
+    "fugaanimi": "^1.0.2"
+  }
+}
